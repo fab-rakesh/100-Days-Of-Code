@@ -1,14 +1,14 @@
 # Progress Log
 
 ### Day 0 (Sunday 15th Jan 2023)
-**Today's Progress:**
+**Today's Progress:** Started re-learning front-end from MDN.Created GitHub repo to push the code. Created twitter account.
 
-- [ ] Progress posted on Twitter
-- [ ] Code pushed on GitHub
+- [x] Progress posted on Twitter
+- [x] Code pushed on GitHub
 
-**Thoughts:**
+**Thoughts:** Kind of boring to read MDN articles, but I guess, it will pay off later.
 
-**Link(s):** [text](link)
+**Link(s):** [GitHub Repo](https://github.com/fab-rakesh/Relearning-FrontEnd-from-MDN.git)
 
 <hr>
 
