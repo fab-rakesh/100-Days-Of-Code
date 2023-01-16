@@ -13,14 +13,15 @@
 <hr>
 
 ### Day 1 (Monday 16th Jan 2023)
-**Today's Progress:**
+**Today's Progress:** Understood surface level CSS- margin, padding, border, display block vs inline, line-height, letter-spacing, centering an element.
+Created a very basic site.
 
-- [ ] Progress posted on Twitter
-- [ ] Code pushed on GitHub
+- [x] Progress posted on Twitter
+- [x] Code pushed on GitHub
 
-**Thoughts:**
+**Thoughts:** Feels good understand the difference between margin, padding & border. Also, centering an element, which is tricky.
 
-**Link(s):** [text](link)
+**Link(s):** [GitHub Repo](https://github.com/fab-rakesh/Relearning-FrontEnd-from-MDN.git)
 
 <hr>
 
