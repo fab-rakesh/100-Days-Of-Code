@@ -26,14 +26,14 @@ Created a very basic site.
 <hr>
 
 ### Day 2 (Tuesday 17th Jan 2023)
-**Today's Progress:**
+**Today's Progress:** Learned basic JS including variables, functions, conditionals, etc. Build a site, added two onclick events.
 
-- [ ] Progress posted on Twitter
-- [ ] Code pushed on GitHub
+- [x] Progress posted on Twitter
+- [x] Code pushed on GitHub
 
-**Thoughts:**
+**Thoughts:** It was fun to add interactivity to the html. 
 
-**Link(s):** [text](link)
+**Link(s):** [GitHub Repo](https://github.com/fab-rakesh/Relearning-FrontEnd-from-MDN.git)
 
 <hr>
 
