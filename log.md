@@ -38,15 +38,15 @@ Created a very basic site.
 <hr>
 
 ### Day 3 (Wednesday 18th Jan 2023)
-**Today's Progress:**
+**Today's Progress:** Learned basics of Html. Created a site which creates dynamic list.
+  
+- [x] Progress posted on Twitter
+- [x] Code pushed on GitHub
 
-- [ ] Progress posted on Twitter
-- [ ] Code pushed on GitHub
+**Thoughts:** Working on project was fun. Got stuck multiple times. Had to google so much. But finally, implemented dynamic list using JS.
 
-**Thoughts:**
-
-**Link(s):** [text](link)
-
+**Link(s):** [Project Link](https://rakeshverse.github.io/Relearning-FrontEnd-from-MDN/secondProject/)
+              [GitHub Repo](https://github.com/fab-rakesh/Relearning-FrontEnd-from-MDN.git)
 <hr>
 
 ### Day 4 (Thursday 19th Jan 2023)
