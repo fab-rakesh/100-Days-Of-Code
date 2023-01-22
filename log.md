@@ -50,50 +50,51 @@ Created a very basic site.
 <hr>
 
 ### Day 4 (Thursday 19th Jan 2023)
-**Today's Progress:**
+**Today's Progress:** Didn't do any coding. Just read some articles about technology
 
 - [ ] Progress posted on Twitter
 - [ ] Code pushed on GitHub
 
-**Thoughts:**
+**Thoughts:** Wasted my day in useless things which yields no return.
 
 **Link(s):** [text](link)
 
 <hr>
 
 ### Day 5 (Friday 20th Jan 2023)
-**Today's Progress:**
+**Today's Progress:** Didn't do any coding. Just read some articles about technology and jumped on site to site. 
 
 - [ ] Progress posted on Twitter
 - [ ] Code pushed on GitHub
 
-**Thoughts:**
+**Thoughts:** Time wasting. Not putting real work.
 
 **Link(s):** [text](link)
 
 <hr>
 
 ### Day 6 (Saturday 21st Jan 2023)
-**Today's Progress:**
+**Today's Progress:** Participated in a hackathon Hack 2 Fit by MLH
 
 - [ ] Progress posted on Twitter
-- [ ] Code pushed on GitHub
+- [x] Code pushed on GitHub
 
-**Thoughts:**
+**Thoughts:** It was the first time I ever participated into any hackathon. Felt so overwhelmed by just knowing the kind of projects people were making , the kind of tech stack they were working on, the enthusiasm. I felt that I am missing out.
 
-**Link(s):** [text](link)
+**Link(s):** [Hackthon](https://hack.mlh.io/learn)
 
 <hr>
 
 ### Day 7 (Sunday 22nd Jan 2023)
-**Today's Progress:**
+**Today's Progress:** Couldn't complete the project before time. So, much time wasted on enablig Google maps API. phpMyAdmin wasn't working. MySql workbench was not working either. Wasted so much time just to create a schema.
 
-- [ ] Progress posted on Twitter
-- [ ] Code pushed on GitHub
+- [x] Progress posted on Twitter
+- [x] Code pushed on GitHub
 
-**Thoughts:**
+**Thoughts:** Totally depressed. I learned I must finish the task first and then experiment.
 
-**Link(s):** [text](link)
+
+**Link(s):** [Link of my unfinished project repo](https://github.com/rakeshVerse/fitbomb)
 
 <hr>
 
