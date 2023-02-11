@@ -3,12 +3,13 @@
 ### Day 1 (Saturday 11th Feb 2023)
 **Today's Progress:**
 
-- [ ] Progress posted on Twitter
-- [ ] Code pushed on GitHub
+- [x] Progress posted on Twitter
+- [] Code pushed on GitHub
 
-**Thoughts:**
+**Thoughts:** Completed Linux Foundation Git Course at EdX. Learned basics of Git. The course is mainly focuses on working with Git Locally. It is a text based course and it's filled with technical jargon which makes it difficult to understand. Also, there are no diagarms to illustrate the concepts, that makes it difficult to grasp the concepts. 
+That's why I have started Google's Git course on Coursera. Learned working with Git Locally. Now Learning working with remote repositories. The course is good, very easy to understand. The examples are very good, helps to understand the concepts better.
 
-**Link(s):** [text](link)
+**Link(s):** NA
 
 <hr>
 
