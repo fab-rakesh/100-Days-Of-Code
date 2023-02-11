@@ -2,7 +2,7 @@
 Challenge to code for 100 days without breaking the streak.
 
 ## Main Commitment
-> I will code for at least **2 hours** every day for the next **100 days**, starting from January 15th, 2023
+> I will learn and code for at least **8 hours** every day for the next **100 days**, starting from Feb 11th, 2023
 
 ### Additional Rules
 * I will tweet about my progress every day -> using the hashtag #100DaysOfCode
