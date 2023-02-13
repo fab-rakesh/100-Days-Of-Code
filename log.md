@@ -28,12 +28,12 @@ That's why I have started Google's Git course on Coursera. Learned working with 
 ### Day 3 (Monday 13th Feb 2023)
 **Today's Progress:**
 
-- [ ] Progress posted on Twitter
+- [x] Progress posted on Twitter
 - [ ] Code pushed on GitHub
 
-**Thoughts:**
+**Thoughts:** Completed Google's Git course on Coursera. Learned a lot. The course was very practicle. Prepared notes on excalidraw. Published my first article on Hashnode. 
 
-**Link(s):** [text](link)
+**Link(s):** [Best Practices for Effective Collaboration](https://rakeshverse.hashnode.dev/best-practices-for-effective-collaboration)
 
 <hr>
 
